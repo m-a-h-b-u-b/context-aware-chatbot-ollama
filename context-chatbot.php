@@ -4,7 +4,7 @@ Plugin Name: Context Aware Chatbot (Ollama LLM)
 Plugin URI:  
 Description: A context-aware chatbot plugin for WordPress using local Ollama LLM with detection, setup guidance, and model check.
 Version:     1.3
-Author:      Your Name
+Author:      Md Mahbubur Rahman
 Author URI:  https://m-a-h-b-u-b.github.io 
 License:     MIT 
 Text Domain: context-chatbot
