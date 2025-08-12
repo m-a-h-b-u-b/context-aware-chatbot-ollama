@@ -1,0 +1,47 @@
+#cca-chatbot {
+    max-width: 400px;
+    border: 1px solid #ccc;
+    background: #fefefe;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+#cca-chat-window {
+    height: 250px;
+    border: 1px solid #ddd;
+    padding: 8px;
+    background: #fff;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+.user-message {
+    text-align: right;
+    color: #0073aa;
+    margin: 5px 0;
+}
+
+.bot-message {
+    text-align: left;
+    color: #333;
+    margin: 5px 0;
+}
+
+#cca-user-input {
+    width: 75%;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+#cca-send-btn {
+    width: 22%;
+    padding: 8px;
+    margin-left: 2%;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+#cca-send-btn:hover {
+    background-color: #005177;
+}
