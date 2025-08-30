@@ -2,14 +2,12 @@
 
 A sophisticated, context-aware chatbot designed to enhance customer interactions in e-commerce platforms. This solution leverages Retrieval-Augmented Generation (RAG) techniques, combining local Large Language Models (LLMs) with vector databases for intelligent, context-rich conversations.
 
----
 
 ## Author
 
 **Md Mahbubur Rahman**  
 [GitHub](https://github.com/m-a-h-b-u-b) | [Website](https://m-a-h-b-u-b.github.io)
 
----
 
 ## 🚀 Features
 
@@ -19,7 +17,7 @@ A sophisticated, context-aware chatbot designed to enhance customer interactions
 - **Local Deployment**: Ensures data privacy and security by running entirely on local infrastructure.
 - **Scalable Architecture**: Designed to handle varying loads, suitable for both small businesses and large enterprises.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +28,7 @@ A sophisticated, context-aware chatbot designed to enhance customer interactions
 - **JavaScript (chatbot.js)**: Handles frontend interactions and communicates with the backend.
 - **CSS (style.css)**: Provides styling for the chatbot interface.
 
----
+
 
 ## 📦 Installation
 
